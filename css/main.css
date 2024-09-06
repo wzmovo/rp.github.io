@@ -21,7 +21,7 @@ body {
     background-attachment: fixed;
     background-position: 50% 50%;
     background-color: #818181;
-    background-image: url('../image/klbg.jpg');
+    background-image: url('./image/klbg.jpg');
 }
 #rin-bg:after {
     top: 0;
